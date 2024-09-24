@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lx-dtbs
 - 👀 I’m interested in machine learning and computer vision.
 - 🌱 I’m currently learning database manager and Bayes Estimation.
-- 📫 How to reach me send the e-mail to "fy_lixiao@mail.dlut.edu.cn".
+- 📫 How to reach me send the e-mail to "lixiao69@mail2.sysu.edu.cn".
 
 <!---
 lx-dtbs/lx-dtbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
